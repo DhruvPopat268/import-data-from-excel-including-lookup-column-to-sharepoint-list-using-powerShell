@@ -1,0 +1,1 @@
+# import-data-from-excel-including-lookup-column-to-sharepoint-list-using-powerShell
